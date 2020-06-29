@@ -1,0 +1,163 @@
+html { 
+  background: url(img7.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body
+{
+
+
+width:100%;
+color:teal;
+font-size:100%;
+font-family:arial;
+line-height:1.5;
+text-align:left;
+}
+.body
+{
+	margin:0 auto;
+	width:70%;
+	clear:both;
+}
+a{
+	text-decoration:none;
+}
+
+a:hover,a:active{
+	background-color:teal;
+	color:#fff;
+}
+
+.head img {
+	width:150px;
+	height:150px;
+margin-bottom:2%
+margin-left:2%;
+margin-right:2%;
+margin-top:2%;
+padding-bottom:2%;
+	float:left;
+}
+.head h1 {
+	margin-top:2% ;
+	margin-bottom:2% ;
+	margin-left:2% ;
+	margin-right:2%;
+	padding-top:2% ;
+	position:relative;
+	
+	
+	
+}
+.mainHeader nav{
+	background-color:#006666;
+	height:40px;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	
+} .mainHeader nav a:link,.mainHeader nav a:visited 
+{
+	color:#fff;
+	display:inline-block;
+	padding-top: 10px;
+	padding-bottom:10px;
+	padding-left:15px;
+	padding-right:15px;
+
+	
+	
+	
+	height:20px;
+}
+
+.mainHeader nav ul li
+{
+	display:inline;
+}
+
+.sub {
+	display:absolute;
+}
+
+.mainHeader nav ul li a{
+	border-radius:5px;
+}
+.maincontent {
+	border-radius:5px;
+	line-height:25px;
+}
+.content{
+	width:60%;
+	float:left;
+	
+}
+.topcontent{
+	background:#fff;
+	border-radius:5px;
+	padding-top:3% ;
+	padding-left:3%;
+	padding-right:3%;
+	
+	padding-bottom:5%;
+    margin-top:2px;
+}
+.topside{
+	width:29%;
+	float:left;
+	background-color:#fff;
+	border-radius:5px;
+	
+	margin-right:2%;
+	padding-bottom:2%;
+	padding-left:2%;
+	padding-right:2%;
+	padding-top:2%;
+	
+	margin-bottom: 2%;
+	margin-top:3%;
+}
+	
+	
+.middleside{
+	width:29%;
+	float:left;
+	background-color:#fff;
+	border-radius:5px;
+	margin-right:2%;
+	
+	margin-bottom: 2%;
+	margin-top:3%;
+}
+	.bottomside{
+		padding-bottom:2%;
+
+	padding-top:2%;
+	padding-left:2%;
+	padding-right:2%;
+	width:29%;
+	float:left;
+	background-color:#fff;
+	border-radius:5px;
+	
+	
+	margin-bottom: 2%;
+	margin-top:3%;
+}
+	.mainfooter{
+width:100%;
+float:left;
+border-radius:5px;
+margin-top:5%;
+margin-bottom:2%;
+	}
+.mainfooter p {
+width:90%;
+margin:10% auto;
+color:black;
+font-family:arial;
+}
+	
